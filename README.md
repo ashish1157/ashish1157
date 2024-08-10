@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashish1157
-- 👀 I’m interested in web development
+- 👀 I’m interested in development
 - 📫 How to reach me .. mail me ashish.hy456@gmail.com 
 
 <!---
